@@ -13,6 +13,4 @@ I am going to explore average vote, budget, popularity, and revenue variables in
 tmdb-movies.csv
 
 ### Credits
-Udacity's classroom
-
 Kaggle (https://www.kaggle.com/tmdb/tmdb-movie-metadata)
